@@ -1,4 +1,4 @@
-﻿<script setup lang="ts">
+<script setup lang="ts">
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 
@@ -34,8 +34,9 @@ function toggleLanguage() {
           {{ t(item.label) }}
         </a>
         <button class="language-button" type="button" @click="toggleLanguage">EN / ES</button>
-        <a class="access-button" href="#contact">{{ t('nav.access') }}</a>
+        <a class="access-button" href="https://ambitious-field-08f658810.2.azurestaticapps.net/login?redirect=/home">{{ t('nav.access') }}</a>
       </div>
     </nav>
   </header>
 </template>
+

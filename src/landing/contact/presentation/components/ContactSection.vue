@@ -13,7 +13,7 @@ const { t } = useI18n()
           <div class="contact-cards">
             <article>
               <strong>{{ t('contact.cards.email') }}</strong>
-              <span>hola@marketgo.pe</span>
+              <span>contacto@marketgo.com</span>
             </article>
             <article>
               <strong>{{ t('contact.cards.whatsapp') }}</strong>
@@ -43,4 +43,5 @@ const { t } = useI18n()
     </div>
   </section>
 </template>
+
 
