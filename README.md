@@ -2,6 +2,8 @@
 
 Landing page oficial de MarketGo construida con Vue 3, Vite y vue-i18n. El proyecto toma como referencia tecnica la arquitectura modular de BuildLine y una direccion visual inspirada en Ventix.
 
+[Landing page de MarketGo](https://landing-page-tawny-gamma-97.vercel.app)
+
 ## Tecnologias
 
 - Vue 3

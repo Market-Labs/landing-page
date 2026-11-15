@@ -11,7 +11,7 @@ const { t } = useI18n()
         <h1>{{ t('home.title') }}</h1>
         <p>{{ t('home.subtitle') }}</p>
         <div class="home-actions">
-          <a class="btn btn--orange" href="https://ambitious-field-08f658810.2.azurestaticapps.net/login?redirect=/home">{{ t('home.demoAction') }}</a>
+          <a class="btn btn--orange" href="https://front-end-tan-kappa-94.vercel.app">{{ t('home.demoAction') }}</a>
           <a class="btn btn--secondary" href="#videos">{{ t('home.videoAction') }}</a>
         </div>
       </div>

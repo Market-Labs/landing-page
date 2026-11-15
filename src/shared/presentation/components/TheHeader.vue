@@ -34,7 +34,7 @@ function toggleLanguage() {
           {{ t(item.label) }}
         </a>
         <button class="language-button" type="button" @click="toggleLanguage">EN / ES</button>
-        <a class="access-button" href="https://ambitious-field-08f658810.2.azurestaticapps.net/login?redirect=/home">{{ t('nav.access') }}</a>
+        <a class="access-button" href="https://front-end-tan-kappa-94.vercel.app">{{ t('nav.access') }}</a>
       </div>
     </nav>
   </header>
