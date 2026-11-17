@@ -3,8 +3,8 @@ import { useI18n } from 'vue-i18n'
 const { t } = useI18n()
 const videos = ['team', 'product'] as const
 const videoSources = {
-  team: 'https://www.youtube.com/embed/ru6mmukL_6A?list=PLFAx-Rg5kP2blP7lk7utr4R6_VeMTS49d',
-  product: 'https://youtu.be/D0y_F9tcJrs',
+  team: 'https://www.youtube.com/embed/LbMoNAv3fP4',
+  product: 'https://www.youtube.com/embed/D0y_F9tcJrs',
 }
 </script>
 
